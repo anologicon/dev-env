@@ -9,6 +9,7 @@
                 "prettify JSON",
                 "Visual Studio IntelliCode"
             ],
+            "Keymap": "Atom",
             "Icons": [
                 "vscode-icons"
             ],
@@ -20,11 +21,19 @@
             ]
         }]
     },
-    "Ambiente": [
-        "Docker",
-        "Docker-Compose",
-        "NodeJs",
-        "npm",
-        "Jupyter"       
-    ]
+    "Ambiente": {
+        "Dev": [
+            "Docker",
+            "Docker-Compose",
+            "NodeJs",
+            "npm",
+            "Jupyter"       
+        ],
+        "Terminal": {
+            "Konsole": [
+                "zsh",
+                "o-my-zsh"
+            ]
+        }
+    }
 }

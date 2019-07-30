@@ -1,21 +1,30 @@
 {
-    "extensions": [{
-        "Snippets":[
-            "JavaScript (ES6) code snippets"
-        ],
-        "Code Format":[
-            "Prettier - Code formatter",
-            "prettify JSON",
-            "Visual Studio IntelliCode"
-        ],
-        "Icons": [
-            "vscode-icons"
-        ],
-        "Themes": [
-            "Shades of Purple"
-        ],
-        "Font": [
-            "Fira Code"
-        ]
-    }]
+    "VsCode": {
+        "extensions": [{
+            "Snippets":[
+                "JavaScript (ES6) code snippets"
+            ],
+            "Code Format":[
+                "Prettier - Code formatter",
+                "prettify JSON",
+                "Visual Studio IntelliCode"
+            ],
+            "Icons": [
+                "vscode-icons"
+            ],
+            "Themes": [
+                "Shades of Purple"
+            ],
+            "Font": [
+                "Fira Code"
+            ]
+        }]
+    },
+    "Ambiente": [
+        "Docker",
+        "Docker-Compose",
+        "NodeJs",
+        "npm",
+        "Jupyter"       
+    ]
 }

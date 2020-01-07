@@ -27,12 +27,15 @@
             "Docker-Compose",
             "NodeJs",
             "npm",
-            "Jupyter"       
+            "Jupyter",
+            "git"
         ],
         "Terminal": {
             "Konsole": [
                 "zsh",
-                "o-my-zsh"
+                "o-my-zsh": {
+                    "theme": "powerlevel9k",
+                }
             ]
         }
     }

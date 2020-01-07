@@ -1,8 +1,8 @@
 # Hi Anologicon or `your-name-here`
 
-Here we are again, if you need help to remember your favorites config (if is favorite why you need help to remember?!);
+Here we are again, if you need help to remember your favorites configs (if is favorite why you need help to remember?!);
 
-First time you need open the json file to see the recomendations. But wee need build a markdonw file in the future.
+First, you need open the json file to see the recomendations. But wee need build a markdown file in the future.
 
 Here are the most values links to help you:
 

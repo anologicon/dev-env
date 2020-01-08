@@ -34,7 +34,7 @@
             "Konsole": [
                 "zsh",
                 "o-my-zsh": {
-                    "theme": "powerlevel9k",
+                    "theme": "powerlevel9k"
                 }
             ]
         }

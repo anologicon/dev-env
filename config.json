@@ -33,10 +33,9 @@
         "Terminal": {
             "Konsole": [
                 "zsh",
-                "o-my-zsh": {
-                    "theme": "powerlevel9k"
-                }
-            ]
+                "o-my-zsh"               
+            ],
+            "Theme": "powerlevel9k",
         }
     }
 }

@@ -95,7 +95,7 @@ https://github.com/tonsky/FiraCode
 
 ### Docker
 
-https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/
+https://github.com/docker/docker-install
 
 ### Docker-compose
 

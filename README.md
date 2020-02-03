@@ -95,7 +95,7 @@ https://github.com/tonsky/FiraCode
 
 ### Docker
 
-https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
+https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/
 
 ### Docker-compose
 

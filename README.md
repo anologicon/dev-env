@@ -97,6 +97,9 @@ https://github.com/tonsky/FiraCode
 
 https://github.com/docker/docker-install
 
+after that
+`sudo systemctl enable docker`
+
 ### Docker-compose
 
 https://docs.docker.com/compose/install/

@@ -23,7 +23,7 @@ https://www.xfce-look.org/s/XFCE/p/1279924
 
 ### Cursor
 
-https://www.xfce-look.org/p/1197198/
+https://www.xfce-look.org/p/1366182/
 
 ### Linux Mint Theme
 

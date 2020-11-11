@@ -13,6 +13,9 @@ Here are the most values links to help you:
 
 https://linuxmint.com/download.php
 
+### How to install HDD and SSD
+https://youtu.be/QS3TaFr7B7I
+
 ### Ocs-url (helper)
 
 https://www.pling.com/p/1136805/
